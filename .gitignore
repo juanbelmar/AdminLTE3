@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+node_modules
+.DS_Store
+junk.html
+docs
+adhoc
+_rs_job.R
+ui.R

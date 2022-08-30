@@ -1,0 +1,16 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+node_modules$
+^LICENSE\.md$
+^\.github$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^adhoc$
+^inst/builtin-templates/AdminLTE3-bare/www/AdminLTE/js/\.eslintrc\.json$
+^inst/screenshots$
+^cran-comments\.md$
+^CRAN-RELEASE$
+^ui\.R$
+^_rs_job\.R$
+^CRAN-SUBMISSION$
